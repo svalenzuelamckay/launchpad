@@ -1,0 +1,14 @@
+tr, td, th {
+    border-style: dotted;
+}
+
+th {
+    background-color: yellow
+}
+
+
+#relleno {
+    background-color: red;
+}
+
+

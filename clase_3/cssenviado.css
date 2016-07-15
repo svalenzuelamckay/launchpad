@@ -1,0 +1,31 @@
+#one {          
+background-color: #FF0000;
+}
+#two {          
+background-color: #0000FF;
+}
+#three {        
+background-color: #FFD700;
+}
+#four {         
+background-color: #308014;
+}
+
+
+div {   
+height: 50px;           
+width: 120px;           
+border-color: #6495ED;      
+border-width: 2px;  
+border-style: solid;    
+border-radius: 10px;            
+margin-left: auto;      
+margin-right: auto;
+display:inline ;
+}
+
+
+#one {
+    float: left
+}
+
